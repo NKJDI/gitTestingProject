@@ -327,7 +327,7 @@
         <fullName>Customer_Name__c</fullName>
         <externalId>false</externalId>
         <label>Customer Name</label>
-        <length>20</length>
+        <length>30</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
